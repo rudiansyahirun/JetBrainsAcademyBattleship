@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Hello_" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Memory cleaning" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Running a program on different platforms" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Cats are robots" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Find a word that is not a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Hello, Java" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Printing a magic letter" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Stars" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Removing breaks" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Rewriting code using switch" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
